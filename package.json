@@ -1,6 +1,6 @@
 {
-  "name": "react-native-k4l-video-trimmer",
-  "version": "0.1.9",
+  "name": "@misha98857/react-native-k4l-video-trimmer",
+  "version": "0.2.3",
   "description": "Whatsapp like trimmer for react native android",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,7 +36,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/harshaliitr/react-native-k4l-video-trimmer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misha98857/react-native-k4l-video-trimmer.git"
+  },
   "author": "Harshal Bhandari <harshalbhandari48@gmail.com> (https://github.com/harshaliitr)",
   "license": "MIT",
   "bugs": {
@@ -146,5 +149,8 @@
   },
   "dependencies": {
     "@react-native-community/cameraroll": "^4.1.2"
+  },
+  "directories": {
+    "example": "example"
   }
 }

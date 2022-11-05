@@ -43,9 +43,9 @@
   "author": "Harshal Bhandari <harshalbhandari48@gmail.com> (https://github.com/harshaliitr)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/harshaliitr/react-native-k4l-video-trimmer/issues"
+    "url": "https://github.com/misha98857/react-native-k4l-video-trimmer/issues"
   },
-  "homepage": "https://github.com/harshaliitr/react-native-k4l-video-trimmer#readme",
+  "homepage": "https://github.com/misha98857/react-native-k4l-video-trimmer#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

@@ -61,9 +61,9 @@ public class TrimmerActivity extends AppCompatActivity {
 
   private void openTrimActivity(String path, Long duration) {
      TrimVideo.activity(String.valueOf(path))
-      .setTrimType(TrimType.FIXED_DURATION)
+      .setTrimType(TrimType.MIN_MAX_DURATION)
       .setHideSeekBar(true)
-      .setFixedDuration(duration)
+      .setMinToMax(5, duration)
       .setTitle("Редактирование истории")
       .start(TrimmerActivity.this, startForResult);
   }

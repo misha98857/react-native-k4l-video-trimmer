@@ -64,7 +64,7 @@ public class TrimmerActivity extends AppCompatActivity {
       .setTrimType(TrimType.FIXED_DURATION)
       .setHideSeekBar(true)
       .setFixedDuration(duration)
-      .setTitle("Выберите отрезок максимум в " + duration + " секунд")
+      .setTitle("Редактирование истории")
       .start(TrimmerActivity.this, startForResult);
   }
 }

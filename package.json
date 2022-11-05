@@ -1,6 +1,6 @@
 {
   "name": "@misha98857/react-native-k4l-video-trimmer",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Whatsapp like trimmer for react native android",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
